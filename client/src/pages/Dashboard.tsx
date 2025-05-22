@@ -19,6 +19,7 @@ const Dashboard = () => {
   const [isDetailOpen, setIsDetailOpen] = useState(false);
   const [sidebarWidth, setSidebarWidth] = useState(300); // Initial estimate
   const sidebarRef = useRef<HTMLDivElement>(null);
+  //jhdasvbjhdvjhasvdvjahsvd
   
   // Set up resize observer to track sidebar width
   useEffect(() => {
